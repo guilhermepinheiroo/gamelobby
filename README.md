@@ -102,20 +102,3 @@ npm run dev
 Frontend will run on **http://localhost:5173**
 
 ---
-
-## ⚙️ Environment Variables
-
-### Frontend (`frontend/.env`)
-
-```env
-VITE_API_URL=http://localhost:3001
-```
-
-### Backend (`backend/.env`)
-
-```env
-PORT=3001
-ALLOWED_ORIGINS=http://localhost:5173
-```
-
----
